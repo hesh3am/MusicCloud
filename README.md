@@ -1,7 +1,5 @@
 # MusicCloud
-
-http://www.mediafire.com/file/ih5a3mw1w5rzk2z/MusicCloud.zip/file
-
+Download the Project: http://www.mediafire.com/file/ih5a3mw1w5rzk2z/MusicCloud.zip/file
 
 ![2018-10-04 at 02-53-24](https://user-images.githubusercontent.com/34006266/46505262-6faf5580-c7e5-11e8-95c8-da0a1b69557c.png)
 
