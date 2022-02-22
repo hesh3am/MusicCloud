@@ -1,6 +1,13 @@
 # MusicCloud
 MusicCloud-Android
-![Uploading 2018-10-04 at 02-53-59.pn
-![2018-10-04 at 02-54-35](https://user-images.githubusercontent.com/34006266/155196978-811bebb6-31e7-485a-93c8-8ca253168859.png)
-![2018-10-04 at 02-53-24](https://user-images.githubusercontent.com/34006266/155196981-e82dc857-10f8-4418-bc5f-867c9220329e.png)
-g…]()
+
+![2018-10-04 at 02-53-24](https://user-images.githubusercontent.com/34006266/155197164-8515ba7d-b0bf-4f03-be12-6fbdc7b6eb87.png)
+
+![2018-10-04 at 02-53-59](https://user-images.githubusercontent.com/34006266/155197190-79b02444-4059-4934-babe-f6cb9336f652.png)
+
+![2018-10-04 at 02-54-35](https://user-images.githubusercontent.com/34006266/155197236-6fbfb749-1692-4cd7-b997-76436c8abd49.png)
+
+![Capture](https://user-images.githubusercontent.com/34006266/155197288-9f98173f-c3fd-416d-b062-003147d6fe23.PNG)
+
+
+
